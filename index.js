@@ -14,7 +14,11 @@ function produceDrivingRange(blockRange){
 function produceTipCalculator(tip){
   return function(fare){
     return fare*tip
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> daafcc9648b74fcbac65677bbb4f78b521d7a1b4
   }
 }
 
